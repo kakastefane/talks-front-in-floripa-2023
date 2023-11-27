@@ -66,7 +66,7 @@ Mario Souto - Lead Software Engineer @ Nubank & DevSoutinho - [Twitter](https://
 
 **Links:**
 
-Apresentação
+[Apresentação](https://docs.google.com/presentation/d/1AYxinpnS1e4zXSw3MpH-tIENHbDlfATWXZ8haIs6iqo/edit#slide=id.g29ea96fc742_0_120)
 
 ## Talk 6 
 
