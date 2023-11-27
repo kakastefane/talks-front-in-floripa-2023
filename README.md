@@ -54,7 +54,7 @@ Fernanda Kipper - Software Enginner @ Itaú & Youtuber (Kipper Dev) - [Twitter](
 
 **Links:**
 
-Apresentação
+[Apresentação](https://www.canva.com/design/DAF02KGHaGc/Hi8SqT1uBKFyJVVpIvB03w/edit?utm_content=DAF02KGHaGc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - [Repositório](https://github.com/Fernanda-Kipper/infra-as-code)
 
 ## Talk 5 
 
