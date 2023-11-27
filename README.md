@@ -74,11 +74,11 @@ Mario Souto - Lead Software Engineer @ Nubank & DevSoutinho - [Twitter](https://
 
 **Palestrante:**
 
-Lucas Bordignon - Lead Software Engineer @ Superfiliate - [Twitter](https://twitter.com/lucaspbordignon) / [LinkedIn](https://www.linkedin.com/in/lucasbordignon)
+Lucas Bordignon - Lead Software Engineer @ [Superfiliate](https://superfiliate.com/) - [Twitter](https://twitter.com/lucaspbordignon) / [LinkedIn](https://www.linkedin.com/in/lucasbordignon)
 
 **Links:**
 
-Apresentação
+[Apresentação](https://docs.google.com/presentation/d/1i29dLvir2apQNqvoE5eMO1WigK2_zlKxO4qcaQIx5f8/edit?usp=drive_link)
 
 ## Talk 7 
 
