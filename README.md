@@ -1,5 +1,6 @@
 ![Front In Floripa](https://frontin.floripa.br/assets/img/logo.svg)
- **Front *In* Floripa 2023** - Edição 9 - 25 de novembro de 2023
+
+**Front *In* Floripa 2023** - Edição 9 - 25 de novembro de 2023
 
 Seguindo a indicação do mestre **Erick Wendel** criei este repositório para juntar todos os materiais do evento em um local só para a comunidade acessar.
 
@@ -27,6 +28,7 @@ Apresentação
 ### Web Components pra componentes web: a história do nosso Design System open-source
 **Palestrantes:**
 Felipe Fialho - Staff Engineer @ Juntos Somos Mais - [Twitter](https://twitter.com/felipefialho_) / [LinkedIn](https://www.linkedin.com/in/felipefialho)
+
 Maurício Mutte - Software Engineer @ Juntos Somos Mais - [Twitter](https://twitter.com/mauriciomutte) / [LinkedIn](https://linkedin.com/in/mauriciomutte)
 
 **Links:** 
