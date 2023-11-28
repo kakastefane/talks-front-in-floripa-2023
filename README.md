@@ -90,7 +90,7 @@ Paulo Cesar Prado - Software Engineer @ Globo.com - [LinkedIn](https://www.linke
 
 **Links:**
 
-Apresentação
+[Apresentação](https://dev.to/paulinhoprado/teste-ab-em-larga-escala-como-testar-uma-aplicacao-com-1-milhao-de-usuarios-4623)
 
 ## Apresentação
 
